@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2.0,
+    "id": "cat_problem_widget",
+    "type": "widget",
+    "name": "Cat or Problem",
+    "namespace": "CatProblemWidget",
+    "version": "1.0",
+    "author": "Antigravity",
+    "actions": {
+        "widget.cat_problem_widget.view": {
+            "class": "WidgetView"
+        }
+    },
+    "widget": {
+        "js_class": "WidgetCatProblemWidget"
+    },
+    "assets": {
+        "css": ["widget.css"],
+        "js": ["class.widget.js"]
+    }
+}
