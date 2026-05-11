@@ -1,6 +1,6 @@
 <?php declare(strict_types = 0);
 
-namespace Modules\CatProblemWidget\Actions;
+namespace Modules\NewCatProblemWidget\Actions;
 
 use CControllerDashboardWidgetView;
 use CControllerResponseData;

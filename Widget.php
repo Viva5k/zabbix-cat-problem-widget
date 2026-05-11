@@ -1,6 +1,6 @@
 <?php declare(strict_types = 0);
 
-namespace Modules\CatProblemWidget;
+namespace Modules\NewCatProblemWidget;
 
 use Zabbix\Core\CWidget;
 

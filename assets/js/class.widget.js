@@ -1,4 +1,4 @@
-class WidgetCatProblemWidget extends CWidget {
+class NewWidgetCatProblemWidget extends CWidget {
 
     getUpdateRequestData() {
         const data = super.getUpdateRequestData();
